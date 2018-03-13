@@ -1,4 +1,4 @@
-# Obstracle-Avoiding-Bot
+# Obstacle-Avoiding-Bot
 
 An obstacle avoiding bot built with:
 1 Arduino UNO,
