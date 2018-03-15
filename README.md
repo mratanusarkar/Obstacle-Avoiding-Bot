@@ -18,6 +18,7 @@ My goal is *Simple*, to come up with a **basic model** and the **best possible a
 My objective is to come up with the most elegant and the most effective Algorithm to achieve the task with only one sensor. Thus being *more power efficient*, *less complex* and thus achieving the task at a *low processing power*.
 
 
-```
-*The project is still into development and open for Edits to find even better an algorithm with the set constraints to achieve the above mentioned goal.*
+``` 
+The project is still into development and open for Edits to find even better an algorithm
+with the set constraints to achieve the above mentioned goal.
 ```
