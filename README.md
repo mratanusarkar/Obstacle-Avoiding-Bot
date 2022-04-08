@@ -1,6 +1,6 @@
 Obstacle-Avoiding-Bot
 ===
-[![HitCount](http://hits.dwyl.com/mratanusarkar/https://githubcom/mratanusarkar/Obstacle-Avoiding-Bot.svg)](http://hits.dwyl.com/mratanusarkar/https://githubcom/mratanusarkar/Obstacle-Avoiding-Bot)
+[![HitCount](https://hits.dwyl.com/mratanusarkar/Obstacle-Avoiding-Bot.svg?style=flat)](http://hits.dwyl.com/mratanusarkar/Obstacle-Avoiding-Bot)
 
 
 **An obstacle avoiding bot built with:**
